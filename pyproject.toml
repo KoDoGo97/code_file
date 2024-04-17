@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "code-file"
+version = "0.1.0"
+description = ""
+authors = ["KoDoGo97 <kdg0907123@naver.com>"]
+license = "YNC"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
