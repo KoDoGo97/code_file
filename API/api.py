@@ -1,1 +1,1 @@
-none
+print(a)
